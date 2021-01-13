@@ -1,5 +1,6 @@
 mirror-tool
 ===========
+fork from mirror-config-china
 
 [![NPM version](https://img.shields.io/npm/v/mirror-tool.svg?style=flat-square)](https://www.npmjs.com/package/mirror-tool)
 [![Travis](https://img.shields.io/travis/saqqdy/mirror-tool.svg?&label=Linux)](https://travis-ci.org/saqqdy/mirror-tool)
